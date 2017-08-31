@@ -94,3 +94,6 @@ ENV/
 local.py
 
 media/
+
+.vscode
+*.sqlite3
